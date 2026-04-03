@@ -15,6 +15,12 @@ Unfortunately I'm not familiar with something like Rojo, so unless I know how to
 
 # FAQ
 <details>
+<summary>Why not use HumanoidDescription instead of model.Head.Mesh.MeshId?</summary>
+HumanoidDescription kept giving me issues with If statements and stuff, as in. 
+<pre>if HeadTable[HumanoidDescription.Head] then</pre>
+would for some (unknown) reason (to me) would always return false, even if the Values' would look the same.
+</details>
+<details>
 <summary>Does this support R15?</summary>
 No. Not at the moment.
 </details>
