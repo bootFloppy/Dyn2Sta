@@ -6,12 +6,18 @@ The reason why this was made into a repo is because of two things.
 * So people can use this in their Experiences, if they want. (Including you)
 
 # Installation
-You'll have to manually copy stuff from each file in the repo. But here's how the files should be organized
+You'll have to manually copy stuff from each file in the repo, here is a layout of where the scripts should be placed.
 
 - [Dyn2Sta](Dyn2Sta.luau) (Recommended you parent to ServerScriptService)
 - - [HeadTable](HeadTable.luau) (Required to be parented to Dyn2Sta)
 ## Rojo?
 Unfortunately I'm not familiar with something like Rojo, so unless I know how to format this repo to support Rojo's stuff, or that I learn Rojo, there won't be any Rojo support.
+
+# How to add to [HeadTable](HeadTable.luau).
+Adding to the HeadTable is somewhat simple, as you only need a MeshId and ImageId.
+```luau
+["MeshId"] = "TextureId", -- Name (Useful for organization.)
+```
 
 # FAQ
 <details>
