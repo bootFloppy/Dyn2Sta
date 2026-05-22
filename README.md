@@ -1,6 +1,11 @@
 # Dyn2Sta
 Roblox Dynamic Heads back 2 Static, Texture Based Heads.
 
+> [!NOTE]
+> Due to Roblox's new requirement for publishing games, i honestly lost motivation to work on anything roblox related.
+>
+> And even though I literally haven't done much with this, I might not pick it back up unless somehow the requirement is removed or less restrictive for non-ID/non-Scanned verified users.
+
 The reason why this was made into a repo is because of two things.
 * So people can contribute to [HeadTable](HeadTable.luau)
 * So people can use this in their Experiences, if they want. (Including you)
